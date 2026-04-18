@@ -42,7 +42,6 @@
     urllib3==2.6.3
     wheel==0.38.4
     ```
-    
-5. Swagger
+Swagger
 ссылка:
 /api/docs/
