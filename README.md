@@ -42,6 +42,13 @@
     urllib3==2.6.3
     wheel==0.38.4
     ```
+.env переменные
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY 
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET
+
+SOCIAL_AUTH_GITHUB_KEY
+SOCIAL_AUTH_GITHUB_SECRET
+
 Swagger
 ссылка:
 /api/docs/
